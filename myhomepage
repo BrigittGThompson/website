@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>You're a person. – Brigitt Thompson</title>
+  <style>
+    body {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background: #f8f8f8;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 650px;
+      margin: 60px auto;
+      background: #fff;
+      padding: 2.5rem 2rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 24px rgba(0,0,0,0.08);
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 1.2rem;
+      color: #2d3748;
+    }
+    p {
+      font-size: 1.17rem;
+      line-height: 1.7;
+      margin-bottom: 1.2rem;
+    }
+    .author {
+      margin-top: 2.2rem;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>You're a person.</h1>
+    <p>
+      You are a person—a real person—not a to do list, not a widget, not a machine. You are not your resume, your job title, or your bank balance. You're a person. You have things to do, but you are not those things. You are the one doing the things.
+    </p>
+    <p>
+      When you place your attention on the body, and notice in-the-moment, physical sensation, you become more present. You bring awareness to your life and work. This is called embodiment.
+    </p>
+    <p class="author">
+      My name is Brigitt Thompson. I'm a writer, teacher, and coach. I explore embodiment and invite people to do simple practices that remind them that they are human.
+    </p>
+  </div>
+</body>
+</html>
